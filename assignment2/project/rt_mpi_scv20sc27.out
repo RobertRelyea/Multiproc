@@ -1,0 +1,13 @@
+make: `raytrace_mpi' is up to date.
+Scene: Simple Scene
+Width x Height: 5000 x 5000
+Partitioning scheme: 16
+Number of Processes: 20
+Dynamic block size: 0 x 0
+Cycle Size: 27
+Total Computation Time: 9.86493 seconds
+Total Communication Time: 2.45416 seconds
+C-to-C Ratio: 0.248776
+Execution Time: 12.3192 seconds
+
+Image will be save to: renders/rt_5000x5000_cyclesVertical_27_p20_112016-213538.png
